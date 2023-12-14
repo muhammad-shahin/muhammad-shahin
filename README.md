@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://www.linkedin.com/in/shahin-muhammad/)
+<p align="center"><img align="center" width="100%" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="muhammad-shahin" /></p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahin</h1>
 <h3 align="center">A passionate frontend developer.</h3>
